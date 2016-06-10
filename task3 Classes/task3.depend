@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1366004940 source:d:\work\Программирование\Задания\c++\task3\task3\main.cpp
+	"String.hpp"
+
+1463950854 d:\work\Программирование\Задания\c++\task3\task3\string.hpp
+	<cstring>
+	<iostream>
+
+1463859617 source:d:\work\Программирование\Задания\c++\task3\task3\string.cpp
+	"String.hpp"
+	<iostream>
+

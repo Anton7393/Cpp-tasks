@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1464352986 source:d:\work\Программирование\Задания\c++\task4\task4\main.cpp
+	<iostream>
+	"String.hpp"
+
+1464352973 d:\work\Программирование\Задания\c++\task4\task4\string.hpp
+	<cstring>
+	<iostream>
+	<iostream>
+
+1464352932 source:d:\work\Программирование\Задания\c++\task4\task4\string.cpp
+	"String.hpp"
+

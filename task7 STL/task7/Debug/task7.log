@@ -1,0 +1,16 @@
+﻿  task7.cpp
+d:\work\программирование\задания\c++\task7\task7\task7\task7.cpp(35): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+  d:\work\программирование\задания\c++\task7\task7\task7\task7.cpp(44): note: see reference to function template instantiation 'void dump<std::vector<int,std::allocator<_Ty>>>(T)' being compiled
+          with
+          [
+              _Ty=int,
+              T=std::vector<int,std::allocator<int>>
+          ]
+d:\work\программирование\задания\c++\task7\task7\task7\task7.cpp(34): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+  d:\work\программирование\задания\c++\task7\task7\task7\task7.cpp(50): note: see reference to function template instantiation 'void dump<std::list<float,std::allocator<_Ty>>>(T)' being compiled
+          with
+          [
+              _Ty=float,
+              T=std::list<float,std::allocator<float>>
+          ]
+  task7.vcxproj -> D:\Work\Программирование\Задания\C++\task7\task7\Debug\task7.exe

@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1463475104 source:d:\work\Программирование\Задания\c++\task1\task1\act.cc
+	"act.hh"
+
+1463475104 d:\work\Программирование\Задания\c++\task1\task1\act.hh
+	<cstdio>
+
+1463830603 source:d:\work\Программирование\Задания\c++\task1\task1\cat.cpp
+	"Cat.hh"
+
+1463830534 d:\work\Программирование\Задания\c++\task1\task1\cat.hh
+	"Pet.hh"
+
+1463830649 d:\work\Программирование\Задания\c++\task1\task1\pet.hh
+
+1463481709 source:d:\work\Программирование\Задания\c++\task1\task1\chicken.cc
+	"Chicken.hh"
+
+1463481708 d:\work\Программирование\Задания\c++\task1\task1\chicken.hh
+	<cstdlib>
+	"Egg.hh"
+
+1463481724 d:\work\Программирование\Задания\c++\task1\task1\egg.hh
+	<cstdlib>
+	"Chicken.hh"
+
+1463830603 source:d:\work\Программирование\Задания\c++\task1\task1\dog.cc
+	"Dog.hh"
+
+1463830534 d:\work\Программирование\Задания\c++\task1\task1\dog.hh
+	"Pet.hh"
+
+1463481728 source:d:\work\Программирование\Задания\c++\task1\task1\egg.cc
+	"Egg.hh"
+
+1463833218 source:d:\work\Программирование\Задания\c++\task1\task1\one.cc
+	"one.hh"
+
+1463832292 d:\work\Программирование\Задания\c++\task1\task1\start.hh
+	<cstdio>
+	"strings.hh"
+
+1464108617 d:\work\Программирование\Задания\c++\task1\task1\strings.hh
+
+1463832292 d:\work\Программирование\Задания\c++\task1\task1\stop.hh
+	<cstdio>
+	"strings.hh"
+
+1463831464 d:\work\Программирование\Задания\c++\task1\task1\worker.hh
+
+1464069767 source:d:\work\Программирование\Задания\c++\task1\task1\start.cc
+	"start.hh"
+
+1464069767 source:d:\work\Программирование\Задания\c++\task1\task1\stop.cc
+	"stop.hh"
+
+1463833218 d:\work\Программирование\Задания\c++\task1\task1\one.hh
+	"start.hh"
+	"stop.hh"
+	"act.hh"
+	"Worker.hh"
+	"12.hh"
+
+1463751103 d:\work\Программирование\Задания\c++\task1\task1\12.hh
+
+1463838365 source:d:\work\Программирование\Задания\c++\task1\task1\task1.cc
+	<iostream>
+	<cstdio>
+	"12.hh"
+	"Zoo.hh"
+	"two.hh"
+	"one.hh"
+
+1463640597 d:\work\Программирование\Задания\c++\task1\task1\zoo.hh
+	"Cat.hh"
+	"Dog.hh"
+	"Chicken.hh"
+	"Egg.hh"
+	<cstdlib>
+
+1463833218 d:\work\Программирование\Задания\c++\task1\task1\two.hh
+	"start.hh"
+	"stop.hh"
+	"act.hh"
+	"Worker.hh"
+	"12.hh"
+
+1463833218 source:d:\work\Программирование\Задания\c++\task1\task1\two.cc
+	"two.hh"
+
+1463832350 source:d:\work\Программирование\Задания\c++\task1\task1\worker.cc
+	"Worker.hh"
+
